@@ -4,7 +4,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-
 <p align="left">
   <em>
     This is ME, **Muhammad Zakaria**, an **IT** graduate from <a href="https://www.buitms.edu.pk/"> <b>Balochistan University of Information Technology, Engineering and Management Sciences</b>, Quetta</a>. <br>
@@ -18,6 +17,7 @@
 </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <p>
+
 <a href="https://www.linkedin.com/in/zakk616/"><img src="https://img.shields.io/badge/-%20Muhammad%20Zakaria%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <a href="facebook.com/muhammad.zakaria616/"><img src="https://img.shields.io/badge/-Muhammad%20Zakaria-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -31,12 +31,14 @@
 </p>
 
 ### 🛠 &nbsp;Programming
+
 <div align='center'>
+
 ![Cpp](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-![vb]( 	https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![vb](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -45,11 +47,14 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <hr/>
 </div>
 
 ### ⚙️ &nbsp;Frameworks
+
 <div align="center">
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -61,11 +66,14 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+
 <hr/>
 </div>
 
 ### ⚙️ &nbsp;Tools
+
 <div align="center">
+
 ![pycharm](https://img.shields.io/badge/pycharm-100000?style=for-the-badge&logo=pycharm)
 
 ![jupyter](https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter)
@@ -88,21 +96,26 @@
 </div>
 
 ### ⚙️ &nbsp;Databases
+
 <div align="center">
+
 ![mssql](https://img.shields.io/badge/sqlserver-gray?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <hr/>
 </div>
 
-
 ### ⚙️ &nbsp;Operating Systems
+
 <div align="center">
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <hr/>
 </div>
 
