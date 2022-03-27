@@ -49,6 +49,8 @@
 <div>
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="ChartJs" src="https://img.shields.io/badge/chartjs-232F3E?style=for-the-badge&logo=chartdotjs" height="25px"/>
+<img alt="Leaflet" src="https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet" height="25px"/>
 <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25px"/>
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase" height="25px"/>
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25px"/>
