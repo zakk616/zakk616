@@ -41,15 +41,17 @@
 <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25px"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <hr/>
 </div>
 
 ### ⚙️ &nbsp;Frameworks
 
 <div>
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="winforms" src="https://img.shields.io/badge/Winforms-0FAAFF?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
+<img alt="asp" src="https://img.shields.io/badge/ASP.NET-07405E?style=for-the-badge&logo=.net&logoColor=white" height="25px"/>
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="ChartJs" src="https://img.shields.io/badge/chartjs-232F3E?style=for-the-badge&logo=chartdotjs" height="25px"/>
+<img alt="ChartJs" src="https://img.shields.io/badge/chartjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="25px"/>
 <img alt="Leaflet" src="https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet" height="25px"/>
 <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25px"/>
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase" height="25px"/>
