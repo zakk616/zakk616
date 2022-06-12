@@ -34,7 +34,7 @@
   
   </p>
   
-  ### 🛠 &nbsp;Programming
+  ### <img src="https://img.icons8.com/clouds/100/undefined/code-file--v1.png" width="30px"/> &nbsp;Programming
   
   <div>
   
@@ -49,7 +49,7 @@
   <hr/>
   </div>
   
-  ### ⚙️ &nbsp;Frameworks
+  ### <img src="https://img.icons8.com/clouds/100/undefined/performance-imac.png" width="30px"/> &nbsp;Frameworks
   
   <div>
   <img alt="winforms" src="https://img.shields.io/badge/Winforms-0FAAFF?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
@@ -64,7 +64,7 @@
   <hr/>
   </div>
   
-  ### ⚙️ &nbsp;Tools
+  ### <img src="https://img.icons8.com/clouds/100/undefined/hand-tools.png" width="30px"/> &nbsp;Tools
   
   <div>
   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-100000?style=for-the-badge&logo=pycharm" height="25px"/>
@@ -79,7 +79,7 @@
   <hr/>
   </div>
   
-  ### ⚙️ &nbsp;Databases
+  ### <img src="https://img.icons8.com/clouds/100/undefined/accept-database.png" width="30px"/> &nbsp;Databases
   
   <div>
   <img alt='sqlserver' src='https://img.shields.io/badge/sqlserver-gray?style=for-the-badge&logo=microsoft&logoColor=white' height='25px'/>
@@ -88,7 +88,7 @@
   <hr/>
   </div>
   
-  ### ⚙️ &nbsp;Operating Systems
+  ### <img src="https://img.icons8.com/clouds/100/undefined/mac-os.png" width="30px"/> &nbsp;Operating Systems
   
   <div>
   <img alt='windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' height='25px'/>
@@ -96,7 +96,7 @@
   <hr/>
   </div>
   
-  ### ⚙️ &nbsp;GitHub Analytics
+  ### <img src="https://img.icons8.com/clouds/100/undefined/combo-chart.png" width="30px"/> &nbsp;GitHub Analytics
   
   <p align="center">
   <a href="https://github.com/zakk616">
