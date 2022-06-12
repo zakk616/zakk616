@@ -96,7 +96,7 @@
   <hr/>
   </div>
   
-  ## <img src="https://img.icons8.com/clouds/100/undefined/combo-chart.png" width="50px"/> &nbsp;GitHub Analytics
+  # <img src="https://img.icons8.com/clouds/100/undefined/combo-chart.png" width="50px"/> &nbsp;GitHub Analytics
   
   <p align="center">
   <a href="https://github.com/zakk616">
