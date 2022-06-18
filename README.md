@@ -45,7 +45,7 @@
 <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25px"/>
-<img alt="js" src="https://img.shields.io/badge/jquery-1877F2?style=for-the-badge&logo=jquery&logoColor=black" height="25px"/>
+<img alt="js" src="https://img.shields.io/badge/jquery-1877F2?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <hr/>
 </div>
