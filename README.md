@@ -71,6 +71,8 @@
 # <img src="https://img.icons8.com/clouds/100/undefined/hand-tools.png" width="50px"/> &nbsp;Tools
 
 <div>
+<img alt="visualstudio" src="https://img.shields.io/badge/VisualStudio-00000F?style=for-the-badge&logo=visual-studio&logoColor=white" height="25px"/>
+<img alt="vscode" src="https://img.shields.io/badge/VSCode-07405E?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
 <img alt="pycharm" src="https://img.shields.io/badge/pycharm-100000?style=for-the-badge&logo=pycharm" height="25px"/>
 <img alt="jupyter" src="https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter" height="25px"/>
 <img alt="colab" src="https://img.shields.io/badge/colab-d7ecef?style=for-the-badge&logo=googlecolab" height="25px"/>
@@ -80,8 +82,6 @@
 <img alt="postman" src="https://img.shields.io/badge/postman-E95420?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
 <img alt="robo3t" src="https://img.shields.io/badge/robo3t-199900?style=for-the-badge&logo=RStudio&logoColor=white" height="25px"/>
 <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-76b5c5?style=for-the-badge&logo=wordpress&logoColor=white" height="25px"/>
-<img alt="vscode" src="https://img.shields.io/badge/VSCode-07405E?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
-<img alt="visualstudio" src="https://img.shields.io/badge/VisualStudio-00000F?style=for-the-badge&logo=visual-studio&logoColor=white" height="25px"/>
 <hr/>
 </div>
 
