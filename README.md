@@ -22,6 +22,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <p>
 
+<a href="https://zakk616.github.io/resume/"><img src="https://img.shields.io/badge/-Resume-E95420?style=for-the-badge&logo=File&logoColor=white"/></a>
+
 <a href="https://www.linkedin.com/in/zakk616/"><img src="https://img.shields.io/badge/-%20Muhammad%20Zakaria%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <a href="https://www.facebook.com/muhammad.zakaria616/"><img src="https://img.shields.io/badge/-Muhammad%20Zakaria-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
