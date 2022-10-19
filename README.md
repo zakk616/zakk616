@@ -113,8 +113,8 @@
 
 <p align="center">
 <a href="https://github.com/zakk616">
-<img class="badge" height='180em' src="https://github-readme-stats.vercel.app/api?username=zakk616&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zakk616''s Github Stats">
-<img class="badge" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakk616&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakk616&layout=compact&theme=buefy&hide_border=true" />
 </a>
 </p>
 
