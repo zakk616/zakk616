@@ -111,7 +111,7 @@
 
 # <img src="https://img.icons8.com/clouds/100/undefined/combo-chart.png" width="50px"/> &nbsp;GitHub Analytics
 
-| <a href="https://github.com/zakk616/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakk616&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/zakk616/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/zakk616/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakk616&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align='center'>
