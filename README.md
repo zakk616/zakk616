@@ -113,7 +113,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakk616&show_icons=true&locale=en&layout=compact" alt="zakk616" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&locale=en" alt="zakk616" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&locale=en" alt="zakk616" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakk616&" alt="zakk616" /></p>
 
