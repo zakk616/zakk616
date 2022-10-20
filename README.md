@@ -114,6 +114,8 @@
 | <a href="https://github.com/zakk616/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/zakk616/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakk616&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakk616&" alt="zakk616" /></p>
+
 <div align='center'>
  <img class="badge" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%"/>
 </div>
