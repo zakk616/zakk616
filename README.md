@@ -54,11 +54,12 @@
 <hr/>
 </div>
 
-# <img src="https://img.icons8.com/clouds/100/undefined/performance-imac.png" width="50px"/> &nbsp;Frameworks
+# <img src="https://img.icons8.com/clouds/100/undefined/performance-imac.png" width="50px"/> &nbsp;Development
 
 <div>
 <img class="badge" alt="winforms" src="https://img.shields.io/badge/Winforms-0FAAFF?style=for-the-badge&logo=windows&logoColor=white" height='35px'/>
 <img class="badge" alt="asp" src="https://img.shields.io/badge/ASP.NET-07405E?style=for-the-badge&logo=.net&logoColor=white" height='35px'/>
+<img class="badge" alt="net core" src="https://img.shields.io/badge/.NET Core-1877F2?style=for-the-badge&logo=.net&logoColor=white" height='35px'/>
 <img class="badge" alt="nodejs" src="https://img.shields.io/badge/nodejs-199900?style=for-the-badge&logo=nodedotjs&logoColor=white" height='35px'/>
 <img class="badge" alt="express" src="https://img.shields.io/badge/Express-F7DF1E?style=for-the-badge&logo=express&logoColor=black" height='35px'/>
 <img class="badge" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height='35px'/>
