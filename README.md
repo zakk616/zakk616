@@ -1,10 +1,10 @@
 
 <img  src="cover.gif">
-<hr/>
+<br>
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> , 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h1>
-<br>
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
