@@ -23,8 +23,11 @@
 <img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
-<p>
 
+<hr/>
+
+# <img src="https://img.icons8.com/clouds/100/null/secured-letter.png" width="50px"/> &nbsp;Contact Info  
+  <div>
 <a href="https://zakk616.github.io/resume/"><img class="badge" src="https://img.shields.io/badge/-Resume-E95420?style=for-the-badge&logo=PDF&logoColor=white" height='35px'/></a>
 
 <a href="https://www.linkedin.com/in/zakk616/"><img class="badge" src="https://img.shields.io/badge/-%20Muhammad%20Zakaria%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height='35px'/></a>
@@ -36,8 +39,8 @@
 <a href="mailto:muhammadzakaria616@gmail.com"><img class="badge" src="https://img.shields.io/badge/-muhammadzakaria616@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height='35px'/></a>
 
 <a href="https://www.instagram.com/zakk_area/"><img class="badge" src="https://img.shields.io/badge/-zakk_area-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height='35px'/></a>
-
-</p>
+<hr/>
+</div>
 
 # <img src="https://img.icons8.com/clouds/100/undefined/code-file--v1.png" width="50px"/> &nbsp;Programming
 
