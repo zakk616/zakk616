@@ -2,128 +2,34 @@
 <img  src="cover.gif">
 <br>
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> , 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</h1>
 
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-<p align="left">
-<em>
-  This is ME, <b>Muhammad Zakaria</b>, an <b>IT</b> graduate from <a href="https://www.buitms.edu.pk/"> <b>Balochistan University of Information Technology, Engineering and Management Sciences</b>, Quetta</a>. <br>
-  A budding <b>Software Developer</b> <img  src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-coder-computer-science-flaticons-lineal-color-flat-icons.png" width="30px"/>, 
-  <b>Full-Stack Web-Developer</b> <img  src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-web-media-agency-flaticons-lineal-color-flat-icons.png" width="30px"/> and a 
-  <b>Machine Learning Enthusiast</b> <img  src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/undefined/external-ai-computing-network-phatplus-lineal-color-phatplus.png" width="30px"/> ,
-  <br>who is <b>obsessed</b>
-  with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-<b>grow</b> <img  src="https://img.icons8.com/external-wanicon-flat-wanicon/64/undefined/external-grow-up-business-motivation-wanicon-flat-wanicon.png" width="30px"/>and 
-<b>excel</b> <img  src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-expert-auction-house-flaticons-flat-flat-icons-4.png" width="30px"/> &nbsp.
-</em> 
-<br>
-<img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
-
-<hr/>
-
-# <img src="https://img.icons8.com/clouds/100/null/secured-letter.png" width="50px"/> &nbsp;Contact Info  
-  <div>
-<a href="https://zakk616.github.io/resume/"><img class="badge" src="https://img.shields.io/badge/-Resume-E95420?style=for-the-badge&logo=PDF&logoColor=white" height='35px'/></a>
-
-<a href="https://www.linkedin.com/in/zakk616/"><img class="badge" src="https://img.shields.io/badge/-%20Muhammad%20Zakaria%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height='35px'/></a>
-
-<a href="https://www.facebook.com/muhammad.zakaria616/"><img class="badge" src="https://img.shields.io/badge/-Muhammad%20Zakaria-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height='35px'/></a>
-
-<a href="https://stackoverflow.com/users/15345841/muhammad-zakaria"><img class="badge" src="https://img.shields.io/badge/-Muhammad%20Zakaria-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" height='35px'/></a>
-
-<a href="mailto:muhammadzakaria616@gmail.com"><img class="badge" src="https://img.shields.io/badge/-muhammadzakaria616@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height='35px'/></a>
-
-<a href="https://www.instagram.com/zakk_area/"><img class="badge" src="https://img.shields.io/badge/-zakk_area-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height='35px'/></a>
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/code-file--v1.png" width="50px"/> &nbsp;Programming
-
-<div>
-
-<img class="badge" class="badge" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height='35px' border-radius='25px'/>
-<img class="badge" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height='35px'/>
-<img class="badge" alt="vbnet" src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height='35px'/>
-<img class="badge" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height='35px'/>
-<img class="badge" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height='35px'/>
-<img class="badge" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height='35px'/>
-<img class="badge" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height='35px'/>
-<img class="badge" alt="es6" src="https://img.shields.io/badge/ES6-FE7A16?style=for-the-badge&logo=javascript&logoColor=black" height='35px'/>
-<img class="badge" alt="js" src="https://img.shields.io/badge/jquery-1877F2?style=for-the-badge&logo=jquery&logoColor=black" height='35px'/>
-<img class="badge" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height='35px'/>
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/performance-imac.png" width="50px"/> &nbsp;Development
-
-<div>
-<img class="badge" alt="winforms" src="https://img.shields.io/badge/Winforms-0FAAFF?style=for-the-badge&logo=windows&logoColor=white" height='35px'/>
-<img class="badge" alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=xaml&logoColor=white" height='35px'/>
-<img class="badge" alt="asp" src="https://img.shields.io/badge/ASP.NET-07405E?style=for-the-badge&logo=.net&logoColor=white" height='35px'/>
-<img class="badge" alt="net core" src="https://img.shields.io/badge/.NET Core-1877F2?style=for-the-badge&logo=.net&logoColor=white" height='35px'/>
-<img class="badge" alt="nodejs" src="https://img.shields.io/badge/nodejs-199900?style=for-the-badge&logo=nodedotjs&logoColor=white" height='35px'/>
-<img class="badge" alt="express" src="https://img.shields.io/badge/Express-F7DF1E?style=for-the-badge&logo=express&logoColor=black" height='35px'/>
-<img class="badge" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height='35px'/>
-<img class="badge" alt="ChartJs" src="https://img.shields.io/badge/chartjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height='35px'/>
-<img class="badge" alt="Leaflet" src="https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet" height='35px'/>
-<img class="badge" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height='35px'/>
-<img class="badge" alt="firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase" height='35px'/>
-<img class="badge" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height='35px'/>
-<img class="badge" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height='35px'/>
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/hand-tools.png" width="50px"/> &nbsp;Tools
-
-<div>
-<img class="badge" alt="visualstudio" src="https://img.shields.io/badge/VisualStudio-00000F?style=for-the-badge&logo=visual-studio&logoColor=white" height='35px'/>
-  <img class="badge" alt="vscode" src="https://img.shields.io/badge/VSCode-07405E?style=for-the-badge&logo=visual-studio-code&logoColor=white" height='35px'/>
-<img class="badge" alt="pycharm" src="https://img.shields.io/badge/pycharm-100000?style=for-the-badge&logo=pycharm" height='35px'/>
-<img class="badge" alt="jupyter" src="https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter" height='35px'/>
-<img class="badge" alt="colab" src="https://img.shields.io/badge/colab-d7ecef?style=for-the-badge&logo=googlecolab" height='35px'/>
-<img class="badge" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height='35px'/>
-<img class="badge" alt="git" src="https://img.shields.io/badge/-Git-100000?style=for-the-badge&logo=git" height='35px'/>
-<img class="badge" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height='35px'/>
-<img class="badge" alt="postman" src="https://img.shields.io/badge/postman-E95420?style=for-the-badge&logo=postman&logoColor=white" height='35px'/>
-<img class="badge" alt="robo3t" src="https://img.shields.io/badge/robo3t-199900?style=for-the-badge&logo=RStudio&logoColor=white" height='35px'/>
-<img class="badge" alt="wordpress" src="https://img.shields.io/badge/Wordpress-76b5c5?style=for-the-badge&logo=wordpress&logoColor=white" height='35px'/>
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/accept-database.png" width="50px"/> &nbsp;Databases
-
-<div>
-<img class="badge" alt='sqlserver' src='https://img.shields.io/badge/sqlserver-gray?style=for-the-badge&logo=microsoft&logoColor=white' height='35px'/>
-<img class="badge" alt='mysql' src='https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white' height='35px'/>
-<img class="badge" alt='mongodb' src='https://img.shields.io/badge/mongodb-199900?style=for-the-badge&logo=mongodb&logoColor=white' height='35px'/>
-<img class="badge" alt='sqlite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='35px'/>
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/mac-os.png" width="50px"/> &nbsp;Operating Systems
-
-<div>
-<img class="badge" alt='windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' height='35px'/>
-<img class="badge" alt='ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' height='35px'/>
-<img class="badge" alt='kali' src='https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white' height='35px'/>
-<img class="badge" alt='respbian' src='https://img.shields.io/badge/Respbian-199900?style=for-the-badge&logo=Raspberry-Pi&logoColor=white' height='35px'/>
-
-<hr/>
-</div>
-
-# <img src="https://img.icons8.com/clouds/100/undefined/combo-chart.png" width="50px"/> &nbsp;GitHub Analytics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakk616&show_icons=true&locale=en&layout=compact" alt="zakk616" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&locale=en" alt="zakk616" /></p>
-
+<h1 align="center">Hi 👋, I'm Muhammad Zakaria</h1>  
+<h3 align="center">a fullstack developer from Pakistan</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakk616&label=Profile%20views&color=0e75b6&style=flat" alt="zakk616" /> </p>  
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakk616" alt="zakk616" /></a> </p>  
+  
+- 🌱 I’m currently learning **React, Angular**  
+  
+- 💬 Ask me about **dotnet, javascript, jquery, sql**  
+  
+- 📫 How to reach me **muhammadzakaria616@gmail.com**  
+  
+- 📄 Know about my experiences [https://zakk616.github.io/resume/](https://zakk616.github.io/resume/)  
+  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://codepen.io/zakk616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zakk616" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zakk616/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zakk616/" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15345841/muhammad-zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15345841/muhammad-zakaria" height="30" width="40" /></a>  
+</p>  
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakk616&show_icons=true&locale=en&layout=compact" alt="zakk616" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakk616&show_icons=true&locale=en" alt="zakk616" /></p>  
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakk616&" alt="zakk616" /></p>
-
-<div align='center'>
- <img class="badge" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%"/>
-</div>
