@@ -6,7 +6,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakk616" alt="zakk616" /></a> </p>  
   
-- 🌱 I’m currently learning **React, Angular**  
+- 🌱 I’m currently learning **React, Redux**  
   
 - 💬 Ask me about **dotnet, javascript, jquery, sql**  
   
