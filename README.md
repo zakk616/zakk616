@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **React, Redux**  
   
-- 💬 Ask me about **dotnet, javascript, jquery, sql**  
+- 💬 Ask me about **dotnet, javascript, typescript jquery, sql**  
   
 - 📫 How to reach me **muhammadzakaria616@gmail.com**  
   
