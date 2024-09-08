@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Muhammad Zakaria</h1>  
-<h3 align="center">a fullstack developer from Pakistan</h3>  
-
 - 🌱 I’m currently learning **React, Redux**  
   
 - 💬 Ask me about **dotnet, javascript, jquery, sql**  
